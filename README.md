@@ -14,3 +14,4 @@
 - https://github.com/SzymKwiatkowski/rplidar_ros/
 - https://github.com/Slamtec/rplidar_ros
 - https://github.com/0rkisz/imu-micro-ros-node
+- https://github.com/putsolardynamics/Telemetry-Module
